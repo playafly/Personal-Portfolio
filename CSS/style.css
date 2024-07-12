@@ -32,7 +32,7 @@ h3 {
 }
 
 h4 {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     margin: 0;
     text-align: center;
@@ -44,11 +44,8 @@ h4 {
     font-size: 40px;
 }
 
-a {
-    color: black;
-    text-decoration: underline;
+li {
     background-color: cadetblue;
-    padding-inline: 5px;
 }
 
 p {
@@ -69,6 +66,18 @@ img {
 }
 
 /* Classes */
+
+.navbar a {
+    color: black;
+    text-decoration: underline;
+    background-color: cadetblue;
+    padding-inline: 5px;
+}
+
+.top-box a {
+    background-color: cornflowerblue;
+    color: black;
+}
 
 .container {
     display: flex;
@@ -108,4 +117,3 @@ img {
     display: flex;
     align-items: flex-end;
 }
-
