@@ -6,6 +6,9 @@ A portfolio for projects i have worked on that includes contact information.
 ## Screenshot
 (image.png)
 
+## Link to application
+https://playafly.github.io/Personal-Portfolio/
+
 ## License
 MIT License
 
